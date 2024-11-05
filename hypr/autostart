@@ -2,4 +2,3 @@
 
 # hyprpaper &
 $HOME/.config/waybar/startWaybar.sh &
-pcmanfm-qt --desktop &
